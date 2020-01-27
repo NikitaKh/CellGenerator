@@ -1,0 +1,25 @@
+
+„ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè
+„ squid:ForLoopCounterChangedCheck$"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù
+„ squid:ForLoopCounterChangedCheck="XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè
+„ squid:ForLoopCounterChangedCheckW"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù
+asquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ææèX
+asquid:S1301&"KReplace this "switch" statement by "if" statements to increase readability.(ææèX
+asquid:S1301?"KReplace this "switch" statement by "if" statements to increase readability.(ææèX
+asquid:S1301Y"KReplace this "switch" statement by "if" statements to increase readability.(ææèX
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Í‰Ì¯
+isquid:S00117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Â¢¬
+isquid:S00117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À–Òì
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(Í‰Ì¯
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷õ´úÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷õ´úÿÿÿÿ
+O"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ææèX
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ñƒâ‹
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñƒâ‹
+O"squid:SwitchLastCaseIsDefaultCheck&""Add a default case to this switch.(ææèX
+nsquid:S37767"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(„şÙûÿÿÿÿ
+ksquid:S001007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„şÙûÿÿÿÿ
+O"squid:SwitchLastCaseIsDefaultCheck?""Add a default case to this switch.(ææèX
+isquid:S3776P"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(²™Æû
+fsquid:S00100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²™Æû
+O"squid:SwitchLastCaseIsDefaultCheckY""Add a default case to this switch.(ææèX
