@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d8f1178-78a7-44f6-8163-52fd0c5c7431" name="Default Changelist" comment="" />
+    <list default="true" id="5d8f1178-78a7-44f6-8163-52fd0c5c7431" name="Default Changelist" comment="File with cells for test added">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YandexTask/META-INF/YandexTask.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YandexTask/ru/yandex/task/gen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YandexTask/ru/yandex/task/gen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YandexTask/ru/yandex/task/reader$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YandexTask/ru/yandex/task/reader$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YandexTask/ru/yandex/task/reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YandexTask/ru/yandex/task/reader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +42,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Wu7sXDCA8fsa6wdagTj1PWbavG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -102,11 +116,16 @@
       <workItem from="1579987834877" duration="2282000" />
       <workItem from="1579992899497" duration="35046000" />
       <workItem from="1580143150463" duration="15980000" />
+      <workItem from="1580164521123" duration="243000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="File with cells for test added" />
+    <option name="LAST_COMMIT_MESSAGE" value="File with cells for test added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="381" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580070436901">
@@ -121,25 +140,29 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1580158344672" />
-    <state width="1238" height="200" key="GridCell.Tab.0.bottom" timestamp="1580163806573">
+    <state x="234" y="5" key="CommitChangelistDialog2" timestamp="1580164762369">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="200" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580163806573" />
+    <state x="234" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1580164762369" />
+    <state width="1238" height="200" key="GridCell.Tab.0.bottom" timestamp="1580164643773">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="200" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580164643773" />
     <state width="1238" height="200" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580147958487" />
-    <state width="1238" height="200" key="GridCell.Tab.0.center" timestamp="1580163806572">
+    <state width="1238" height="200" key="GridCell.Tab.0.center" timestamp="1580164643771">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="200" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1580163806572" />
+    <state width="1238" height="200" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1580164643771" />
     <state width="1238" height="200" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1580147958485" />
-    <state width="1238" height="200" key="GridCell.Tab.0.left" timestamp="1580163806571">
+    <state width="1238" height="200" key="GridCell.Tab.0.left" timestamp="1580164643770">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="200" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1580163806571" />
+    <state width="1238" height="200" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1580164643770" />
     <state width="1238" height="200" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1580147958483" />
-    <state width="1238" height="200" key="GridCell.Tab.0.right" timestamp="1580163806572">
+    <state width="1238" height="200" key="GridCell.Tab.0.right" timestamp="1580164643772">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="200" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1580163806572" />
+    <state width="1238" height="200" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1580164643772" />
     <state width="1238" height="200" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1580147958486" />
     <state x="149" y="0" key="SettingsEditor" timestamp="1580164328668">
       <screen x="0" y="0" width="1280" height="800" />
