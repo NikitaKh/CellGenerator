@@ -6,6 +6,9 @@ import java.awt.event.ActionListener;
 import java.io.*;
 
 public class reader {
+
+    /* takes matrix and convert it to string,
+    then it is printed on the screen */
     public static void print(int[][] matrix) {
         String txt = "";
         for (int i = 0; i < matrix.length; i++) {
@@ -26,7 +29,7 @@ public class reader {
         dialog.setVisible(true);
     }
 
-    /*file reader*/
+    /* file reader */
     public static void readFile(String path) {
         int l = 0;
         try {
@@ -46,12 +49,12 @@ public class reader {
         }
     }
 
-
+    /* this function works when you use file with cells
+    it takes string and make array */
     public static void stringToAr(String line, int x) {
         String strArr[] = line.split(" ");
         int y = strArr.length;
         int[][] matrix = new int[x][y];
-        System.out.println(matrix.length);
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
                 matrix[i][j] = Integer.parseInt(strArr[j]);
@@ -61,7 +64,7 @@ public class reader {
         gen.counter(matrix);
     }
 
-    /*Function to check height*/
+    /* Function to check height */
     public static int checkHeight(String path) {
         int l = 0;
         try {
@@ -69,7 +72,6 @@ public class reader {
             FileReader fr = new FileReader(file);
             BufferedReader reader = new BufferedReader(fr);
             String line = reader.readLine();
-
             while (line != null) {
                 l++;
                 line = reader.readLine();

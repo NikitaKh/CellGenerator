@@ -2,7 +2,7 @@ package ru.yandex.task;
 
 public class gen {
 
-        /*random map generator*/
+        /* random map generator */
         public static void map_gen(int x, int y) {
             int[][] matrix = new int[x][y];
             for (int i = 0; i < x; i++) {
@@ -13,7 +13,7 @@ public class gen {
                 counter(matrix);
         }
 
-
+        /* magic happen here */
         public static int counter(int[][] matrix) {
             reader.print(matrix);
                 try {

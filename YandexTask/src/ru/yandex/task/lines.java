@@ -2,7 +2,7 @@ package ru.yandex.task;
 
 public class lines {
 
-    /*algorithm for the first line*/
+    /* algorithm for the first line */
     public static void zero_line(int[][] matrix, int x) {
         int one = 0;
         int start = x - 1;
@@ -28,7 +28,7 @@ public class lines {
         }
     }
 
-    /*algorithm for the left side*/
+    /* algorithm for the left side */
     public static void left_line(int[][] matrix, int y) {
         int one = 0;
         int start = y - 1;
@@ -54,7 +54,7 @@ public class lines {
         }
     }
 
-    /*algorithm for the right side*/
+    /* algorithm for the right side */
     public static void right_line(int[][] matrix, int y, int x) {
         int one  = 0;
         int start = y - 1;
@@ -81,7 +81,7 @@ public class lines {
         }
     }
 
-    /*algorithm for the last line*/
+    /* algorithm for the last line */
     public static void last_line(int[][] matrix, int y, int x) {
         int one = 0;
         int start = x - 1;
@@ -106,10 +106,9 @@ public class lines {
         } else if (matrix[y][x] == 0 && one == 3) {
             matrix[y][x] = 1;
         }
-
     }
 
-    /*algorithm for the middle values*/
+    /* algorithm for the middle values */
     public static void middle_lines(int[][] matrix, int y, int x) {
         int one = 0;
         int start_y = y - 1;

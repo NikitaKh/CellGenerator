@@ -1,9 +1,9 @@
 
-Ysquid:S1854!"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8ØĞàÀş-
-usquid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÕƒùÿÿÿÿ8ĞĞåÁş-
-lsquid:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ÁŞÃôüÿÿÿÿ8ƒ©ÚÆş-
-usquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¾ıùıÿÿÿÿ8ĞĞåÁş-
 Jsquid:S1481!"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8ØĞàÀş-
-squid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "path".(ğğıëùÿÿÿÿ8è­‡Çş-
-esquid:S1192,"GDefine a constant instead of duplicating this literal "Error!" 3 times.(·¸œ8ĞĞåÁş-
+Ysquid:S1854!"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8ØĞàÀş-
+lsquid:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ÁŞÃôüÿÿÿÿ8ƒ©ÚÆş-
+usquid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÕƒùÿÿÿÿ8ĞĞåÁş-
 Â%squid:RedundantThrowsDeclarationCheck "„Remove the declaration of thrown exception 'javax.swing.UnsupportedLookAndFeelException', as it cannot be thrown from method's body.(ğìÀ¤øÿÿÿÿ8§¸ÚÈş-
+esquid:S1192,"GDefine a constant instead of duplicating this literal "Error!" 3 times.(·¸œ8ĞĞåÁş-
+squid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "path".(ğğıëùÿÿÿÿ8è­‡Çş-
+usquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¾ıùıÿÿÿÿ8ĞĞåÁş-

@@ -2,7 +2,7 @@ package ru.yandex.task;
 
 public class corners {
 
-    /*algorithm for the first left top value*/
+    /* algorithm for the first left top value */
     public static void first_cell_top(int[][] matrix) {
         int one = 0;
         for (int i = 0; i < 3; i++) {
@@ -26,7 +26,7 @@ public class corners {
         }
     }
 
-    /*algorithm for the last right top value*/
+    /* algorithm for the last right top value */
     public static void last_cell_top(int[][] matrix) {
         int one = 0;
         int stop = matrix[0].length - 3;
@@ -51,7 +51,7 @@ public class corners {
         }
     }
 
-    /*algorithm for the first left bottom value*/
+    /* algorithm for the first left bottom value */
     public static void first_cell_bot(int[][] matrix) {
         int one = 0;
         int stop = matrix.length - 3;
@@ -76,7 +76,7 @@ public class corners {
         }
     }
 
-    /*algorithm for the last right bottom value*/
+    /* algorithm for the last right bottom value */
     public static void last_cell_bot(int[][] matrix) {
         int one = 0;
         int stop_h = matrix.length - 3;

@@ -1,34 +1,34 @@
 
-usquid:S3776U"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(òÆ—ÿÿÿÿÿ8¿çò”ş-
-hsquid:S1301D"KReplace this "switch" statement by "if" statements to increase readability.(ææèX8’è°”ş-
-usquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ò¬ÿÿÿÿÿ8¸­”ş-
-V"squid:SwitchLastCaseIsDefaultCheck)""Add a default case to this switch.(ææèX8”Íâ“ş-
-esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğ£°«
-V"squid:SwitchLastCaseIsDefaultCheck|""Add a default case to this switch.(ææèX8¦É¹•ş-
-hsquid:S1301_"KReplace this "switch" statement by "if" statements to increase readability.(ææèX8¶Âî”ş-
-‹ squid:ForLoopCounterChangedCheckz"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8òµ¸•ş-
-usquid:S00117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çİı„ÿÿÿÿÿ8òµ¸•ş-
-‹ squid:ForLoopCounterChangedCheckB"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù8çÉ¯”ş-
-psquid:S00117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®©÷Š8òµ¸•ş-
-hsquid:S1301)"KReplace this "switch" statement by "if" statements to increase readability.(ææèX8”Íâ“ş-
-psquid:S00117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ñ„«8ÿŠê”ş-
-usquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¼¶Î¢şÿÿÿÿ8õ ë“ş-
-hsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ææèX8¸”ş-
-rsquid:S00100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿©Ò±úÿÿÿÿ8ñ‘š•ş-
-V"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ææèX8¸”ş-
-msquid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï„«»8ª·ò“ş-
-hsquid:S1301|"KReplace this "switch" statement by "if" statements to increase readability.(ææèX8¦É¹•ş-
-usquid:S3776q"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿©Ò±úÿÿÿÿ8æË½•ş-
-psquid:S00117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öêïœ8òµ¸•ş-
-V"squid:SwitchLastCaseIsDefaultCheck_""Add a default case to this switch.(ææèX8¶Âî”ş-
-‹ squid:ForLoopCounterChangedCheck'"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8’èà“ş-
-osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(›ÃÀB8¸”ş-
-lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÃÀB8‰ÉÂ’ş-
-rsquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¶Î¢şÿÿÿÿ8şÃÇ“ş-
-‹ squid:ForLoopCounterChangedCheck]"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8âËë”ş-
 rsquid:S00100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÆ—ÿÿÿÿÿ8Ë‚×”ş-
+msquid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï„«»8ª·ò“ş-
 ‹ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8¤î”ş-
-Xsquid:S1118":Add a private constructor to hide the implicit public one.(Ğ£°«8‰ÉÂ’ş-
-osquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥¦X8òµ¸•ş-
-V"squid:SwitchLastCaseIsDefaultCheckD""Add a default case to this switch.(ææèX8’è°”ş-
+hsquid:S1301{"KReplace this "switch" statement by "if" statements to increase readability.(ææèX8¦É¹•ş-
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(›ÃÀB8¸”ş-
+usquid:S3776U"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(òÆ—ÿÿÿÿÿ8¿çò”ş-
+V"squid:SwitchLastCaseIsDefaultCheck{""Add a default case to this switch.(ææèX8¦É¹•ş-
+‹ squid:ForLoopCounterChangedChecky"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8òµ¸•ş-
 psquid:S3776:"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ï„«»8ü°·”ş-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(Ğ£°«8‰ÉÂ’ş-
+V"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ææèX8¸”ş-
+psquid:S00117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öêïœ8òµ¸•ş-
+psquid:S00117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ñ„«8ÿŠê”ş-
+V"squid:SwitchLastCaseIsDefaultCheck_""Add a default case to this switch.(ææèX8¶Âî”ş-
+‹ squid:ForLoopCounterChangedCheck]"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8âËë”ş-
+psquid:S00117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®©÷Š8òµ¸•ş-
+usquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¼¶Î¢şÿÿÿÿ8õ ë“ş-
+‹ squid:ForLoopCounterChangedCheck'"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8’èà“ş-
+hsquid:S1301)"KReplace this "switch" statement by "if" statements to increase readability.(ææèX8”Íâ“ş-
+‹ squid:ForLoopCounterChangedCheckB"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù8çÉ¯”ş-
+V"squid:SwitchLastCaseIsDefaultCheck)""Add a default case to this switch.(ææèX8”Íâ“ş-
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÃÀB8‰ÉÂ’ş-
+hsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ææèX8¸”ş-
+usquid:S3776p"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿©Ò±úÿÿÿÿ8æË½•ş-
+V"squid:SwitchLastCaseIsDefaultCheckD""Add a default case to this switch.(ææèX8’è°”ş-
+osquid:S00117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥¦X8òµ¸•ş-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğ£°«
+rsquid:S00100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿©Ò±úÿÿÿÿ8ñ‘š•ş-
+rsquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¶Î¢şÿÿÿÿ8şÃÇ“ş-
+usquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çİı„ÿÿÿÿÿ8òµ¸•ş-
+hsquid:S1301_"KReplace this "switch" statement by "if" statements to increase readability.(ææèX8¶Âî”ş-
+usquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ò¬ÿÿÿÿÿ8¸­”ş-
+hsquid:S1301D"KReplace this "switch" statement by "if" statements to increase readability.(ææèX8’è°”ş-
