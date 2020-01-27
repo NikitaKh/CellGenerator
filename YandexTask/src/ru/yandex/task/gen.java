@@ -16,10 +16,6 @@ public class gen {
         /* magic happen here */
         public static int counter(int[][] matrix) {
             reader.print(matrix);
-                try {
-                    Thread.sleep(1000);
-                } catch(InterruptedException ex)
-                {}
                 for (int i = 0; i < matrix.length; i++) {
                     for (int j = 0; j < matrix[i].length; j++) {
                         if (i == 0 && j == 0) {
@@ -50,7 +46,6 @@ public class gen {
                         if ((i >= 1 && i <= matrix.length - 2) && (j >= 1 && j <= matrix[i].length - 2)) {
                             lines.middle_lines(matrix, i, j);
                         }
-
                     }
                 }
                 int[][] subMatrix = matrix;

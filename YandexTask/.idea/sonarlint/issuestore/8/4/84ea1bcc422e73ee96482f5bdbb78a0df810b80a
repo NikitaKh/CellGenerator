@@ -1,17 +1,17 @@
 
-Fsquid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ú‹Šş-
-Fsquid:S1148R"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åõŸş-
-Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ú‹Šş-
-?squid:S1643"Use a StringBuilder instead.(Í÷¸–ıÿÿÿÿ8Ï¬Éş-
+Fsquid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åõŸş-
 [squid:S11977"8Move the array designator from the variable to the type.(·õúˆşÿÿÿÿ8Ùñ¯Éş-
+Fsquid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ú‹Šş-
+Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ú‹Šş-
 osquid:S2095I"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(“Åùÿÿÿÿ8åõŸş-
-esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º§Úú
 Fsquid:S1604"(Make this anonymous inner class a lambda(ªıˆ8Ï¬Éş-
-bsquid:S2147Q"DCombine this catch with the one at line 79, which has the same body.(ï­£Ä8åõŸş-
-ksquid:S2095H"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿ8åõŸş-
-ksquid:S2095&"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿ8Ô¡üŸş-
+Fsquid:S1148R"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åõŸş-
 Xsquid:S1118":Add a private constructor to hide the implicit public one.(º§Úú8â÷ÜÈş-
+ksquid:S2095H"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿ8åõŸş-
+?squid:S1643"Use a StringBuilder instead.(Í÷¸–ıÿÿÿÿ8Ï¬Éş-
+bsquid:S2147Q"DCombine this catch with the one at line 79, which has the same body.(ï­£Ä8åõŸş-
 ?squid:S1643"Use a StringBuilder instead.(¸Ëë­üÿÿÿÿ8Ï¬Éş-
 bsquid:S2147/"DCombine this catch with the one at line 45, which has the same body.(ï­£Ä8ú‹Šş-
-Fsquid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åõŸş-
+ksquid:S2095&"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿ8Ô¡üŸş-
 osquid:S2095'"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(“Åùÿÿÿÿ8Ô¡üŸş-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º§Úú
