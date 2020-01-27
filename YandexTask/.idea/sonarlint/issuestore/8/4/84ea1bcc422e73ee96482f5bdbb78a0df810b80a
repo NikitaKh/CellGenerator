@@ -1,20 +1,0 @@
-
-Fsquid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åõŸş-
-bsquid:S2147"DCombine this catch with the one at line 29, which has the same body.(ï­£Ä8ú‹Šş-
-bsquid:S2147?"DCombine this catch with the one at line 61, which has the same body.(ï­£Ä8åõŸş-
-Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åõŸş-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©Í€–ş-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8öÆÈş-
-Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ú‹Šş-
-[squid:S1197%"8Move the array designator from the variable to the type.(·õúˆşÿÿÿÿ8¥ÿºş-
-Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ú‹Šş-
-ksquid:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿ8Ô¡üŸş-
-esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º§Úú
-osquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(“Åùÿÿÿÿ8Ô¡üŸş-
-[
-squid:S106	"9Replace this use of System.out or System.err by a logger.(úº‘üÿÿÿÿ8‰àÇş-
-osquid:S20955"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(“Åùÿÿÿÿ8åõŸş-
-ksquid:S20954"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿ8åõŸş-
-Xsquid:S1118":Add a private constructor to hide the implicit public one.(º§Úú8—ÓÔ¡ş-
